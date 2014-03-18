@@ -1,3 +1,5 @@
-This is a test file for remote repository exercise.
+This is a test file for remote repository exercise. This is chu's modification.
 
 chu modified this file.
+
+I modified it again. --11:07 a.m.
